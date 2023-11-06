@@ -1,0 +1,36 @@
+
+body{
+
+    font-family: 'Orbitron', sans-serif;
+    color: #14134E;
+     text-align: center;
+     margin: 0;
+    
+} 
+#hero {
+    background-image: url(BVLZ.gif) ;
+    background-size: auto;
+    padding: 10px 0 30% 0;
+   
+}
+.btn {
+    padding: 6px 11px;
+    font-size: 108%;
+    background: white ;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #14134E;
+    font-weight: bold;
+}
+.zirkhat {
+   text-decoration: underline;
+   text-shadow: 3px 3px 3px rgb(110, 94, 94);
+}
+#logo{
+    width: 110px;
+    margin: 0 auto;
+    display: block;
+}
+h1 {
+    text-shadow: 0 0 4px rgb(110, 94, 94);
+}
